@@ -127,7 +127,6 @@ class L5uni2
             obb3.display6();
             break;
             default: System.out.println("Wrong choice nigga");break;
-        }
-        
+        }        
     }
     }
